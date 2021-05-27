@@ -1,0 +1,13 @@
+:root {
+    --dark: #16191c;
+    --dark: #1e2126; 
+    --light: #ffffff;
+    }
+
+    body {
+        familia de fuentes: 'Spartan', sans-serif;
+        font-weight:  300;
+        color: var(--light);
+    }
+
+    
